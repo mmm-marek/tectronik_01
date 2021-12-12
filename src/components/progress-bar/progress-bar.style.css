@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@900&family=Montserrat:wght@600&display=swap");
+
+.container {
+    background-color: #e5dada;
+    border-radius: 25px;
+}
+
+.progress-value {
+    font-family: "Heebo", sans-serif;
+    letter-spacing: 1px;
+    background-color: rgb(4, 15, 22);
+    border-radius: 25px;
+    color: rgb(235, 235, 235);
+    height: 100%;
+    text-align: center;
+}
